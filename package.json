@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-sketch-manifest-processor",
+  "version": "0.1.0",
+  "description": "Auxiliary babel plugin for Sketch JS plugins processing.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbobabr/babel-plugin-sketch-manifest-processor.git"
+  },
+  "keywords": [
+    "plugin",
+    "sketchapp",
+    "sketch"
+  ],
+  "author": "Andrey Shakhmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turbobabr/babel-plugin-sketch-manifest-processor/issues"
+  },
+  "homepage": "https://github.com/turbobabr/babel-plugin-sketch-manifest-processor#readme",
+  "dependencies": {
+    "babel-runtime": "^6.3.19",
+    "babel-template": "^6.3.13",
+    "babel-types": "^6.4.5",
+    "lodash": "^4.2.1"
+  }
+}
