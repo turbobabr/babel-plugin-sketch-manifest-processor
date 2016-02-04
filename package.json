@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-sketch-manifest-processor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auxiliary babel plugin for Sketch JS plugins processing.",
   "main": "lib/index.js",
   "repository": {
